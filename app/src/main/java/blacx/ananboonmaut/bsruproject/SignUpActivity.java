@@ -29,7 +29,7 @@ public class SignUpActivity extends AppCompatActivity {
     private String nameString, userString, passString,
             pathImageString, nameImageString;  // ประกาศตัวแปรใหม่
     private Uri uri;
-    private boolean aboolean = true;1
+    private boolean aboolean = true;
     private int anInt = 0;
 
 1
