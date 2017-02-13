@@ -32,7 +32,7 @@ public class SignUpActivity extends AppCompatActivity {
     private boolean aboolean = true;
     private int anInt = 0;
 
-
+1
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
